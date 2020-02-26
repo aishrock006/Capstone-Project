@@ -5,6 +5,8 @@
 <b>Install</b>
 <br>
 This project requires Python 3 and the following Python libraries installed:
+
+<br>* fbprophet
 <br>* matplotlib
 <br>* statsmodels
 <br>* NumPy
@@ -16,12 +18,12 @@ You will also need to have software installed to run and execute an iPython Note
 We recommend to install Anaconda, a pre-packaged Python distribution that contains all of the necessary libraries and software for this project.
 <br><br><b>Code</b>
 <br>Complete notebook is divided into various parts:
-<br>* Part 1: Data Preprocessing
-<br>* Part 2: Data Modelling with ARIMA
-<br>* Part 3: Data Modelling with FbPhrophet (will be done)
-<br>* Part 4: Data Modelling with Holt Winter (will be done)
-<br>* Part 5: Training with LSTM (will be done)
-<br>* Part 6: Final Model Evaluation and Prediction. (will be done)
+<br>* Part 1: 1Data Preprocessing
+<br>* Part 2: 2Data Modelling with ARIMA
+<br>* Part 3: 3Data Modelling with FBPhrophet
+<br>* Part 4: 4Data Modelling with Holt Winter
+<br>* Part 5: 5Training with LSTM 
+<br>* Part 6: 6Final Model Evaluation and Prediction.
 <br>
 
 <b> Data </b>
