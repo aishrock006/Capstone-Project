@@ -34,6 +34,7 @@ We recommend to install Anaconda, a pre-packaged Python distribution that contai
 <br>* Processed daily Test data is available in<b> /dataset/daily/Train</b>
 <br>* Processed monthly Train data is available in<b> /dataset/monthly/Train</b>
 <br>* Processed monthly Train data is available in<b> /dataset/monthly/Train</b>
+<br>* Evaluation metrics Results is available in<b> /result</b>
 <br><br>
 
 
